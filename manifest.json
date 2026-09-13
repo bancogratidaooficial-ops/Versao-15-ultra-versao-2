@@ -1,0 +1,22 @@
+{
+  "name": "Banco Gratidão V15.1 ULTRA PLUS",
+  "short_name": "Gratidão V15.1",
+  "description": "V15.1 ULTRA PLUS com Lixeirinha, Salvar, YouTube, Redes Sociais e tudo!",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#FFD700",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/833/833472.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/833/833472.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
